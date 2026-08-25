@@ -1,6 +1,10 @@
 "hello dosto" 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "my name is dhruv.b"
 =======
 "my name is main"
+>>>>>>> feature
+=======
+"my name is feature"
 >>>>>>> feature
