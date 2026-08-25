@@ -1,2 +1,6 @@
 "hello dosto" 
+<<<<<<< HEAD
 "my name is dhruv.b"
+=======
+"my name is dhruv"
+>>>>>>> feature
